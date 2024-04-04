@@ -1,0 +1,18 @@
+Pembenaran Codelab Modul 4
+
+*Kendaraan/kendaraan.java
+	- disini saya menambahkan method stop() dan brake() yang berfungsi sebagai implentasi terhadap class anak dari kendaraan
+
+*Kendaraan/Khusus
+	- pada file pesawat.java saya menambahkan method brake() dan override method
+	- pada file Tank.java disini banyakk typonya, pertama dari implements ShootAb saya rubah menjadi implements ShootAble, saya 	menambahi titik koma dimethod stop dan brake, dan dimethod shoot ada typo valuenya yang semula vehi saya rubah menjadi vehicle dan 	dibelakang kurung saya kasih titik koma seperti method yang lainnya.
+
+*kendaraan/pribadi
+	-pada file Motor.java saya menambahkan method Start() dan override Start()
+
+*kendaraan/util
+	- Pada file Flyable.java ada sedikit typo pada interface Flyable penulisan  private void fly(); saya ubah menjadi void fly()
+	- Pada file ShootAble.java ada sedikit typo tepatnya interface ShootAble terdapat typo yaitu pada penulisan inter yang harusnya menjadi interface 
+
+*pada file Main.java saya tidak merubah sama sekali karena saya memakai file update yang baru dipush.
+ 
