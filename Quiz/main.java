@@ -5,7 +5,7 @@ class Swalayan {
 
     public Swalayan(String pembeli, int harga) {
         this.pembeli = pembeli;
-        this.harga = harga;
+        this.h arga = harga;
     }
 
     public int getHarga() {
@@ -22,6 +22,7 @@ class Grosir extends Swalayan {
         this.jumlah = jumlah;
     }
 
+    
     public int getJumlahPembelian() {
         return jumlah * getHarga();
     }
@@ -39,4 +40,19 @@ public class main {
         grosir.cetak();
     }
     
+
+    /**
+     * @param harga the harga to set
+     */
+//    public void setHarga(int harga) {
+//        this.harga = harga;
+//    }
+
+    /**
+     * @param jumlah the jumlah to set
+     */
+//    public void setJumlah(int jumlah) {
+//        this.jumlah = jumlah;
+//    }
+
 }
