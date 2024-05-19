@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30fba1af-1e21-42df-b7bf-b35181a8d93c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Quiz/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quiz/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/src/Books/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/src/Books/HistoryBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/src/Books/StoryBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/src/Books/TextBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/src/Data/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/src/Data/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/src/Data/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/src/com/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/src/util/iMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/out/production/test1/test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/src/Books/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/src/Books/HistoryBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/src/Books/StoryBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/src/Books/TextBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/src/Data/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/src/Data/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/src/Data/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/src/com/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/src/util/iMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P.Java/modul4/Tugas/test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tugas/src/com/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codelab/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +40,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fK57u8jNJQVzeoGZFNF0n2E7Sc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,11 +51,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/PROGRAMMING/java/test"
+    "last_opened_file_path": "D:/PROGRAMMING/java/Praktikum/modul4/Tugas"
   }
 }]]></component>
   <component name="SharedIndexes">
